@@ -1,5 +1,5 @@
 div.background {
-    background: url('picture1.jpeg') repeat;
+    background: url('picture3.jpeg') no-repeat;
     border: 2px solid black;
   }
   
